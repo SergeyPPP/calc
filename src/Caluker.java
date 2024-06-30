@@ -35,7 +35,7 @@ public class Caluker {
             isRoman = false;
         }
         else {
-            throw new Exception("Оба числа должны быть либо арабскими либо римскими");
+            throw new Exception(" ");
         }
         if (num1 > 10 || num2 > 10) {
             throw new Exception("Числа должны быть от 1 до 10");
